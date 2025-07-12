@@ -14,11 +14,11 @@
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org"
-            "value" : ""
+            "value" : "29055333"
         },
         "API_HASH": {
             "description": "Get this value from my.telegram.org"
-            "value" : ""
+            "value" : "a6d154242eaef80a163bf5d0a7763882"
         },
         "BOT_TOKEN": {
             "description": "Get this from @BotFather"
@@ -42,7 +42,7 @@
         },
         "BOT_OWNER": {
             "description": "Bot Owner UserID"
-            "value" : ""
+            "value" : "6828129421"
         },
         "DATABASE_URL": {
             "description": "MongoDB Database URI for Saving UserID for Broadcast."
