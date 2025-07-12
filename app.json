@@ -34,11 +34,11 @@
         },
         "SHORTLINK_URL": {
             "description": "Your URL Shortner Domain Name"
-            "value" : ""
+            "value" : "MoneyKamalo.com"
         },
         "SHORTLINK_API": {
             "description": "Your Url Shortner Api Token"
-            "value" : ""
+            "value" : "0eefb93e1e3ce9470a7033115ceb1bad13a9d674"
         },
         "BOT_OWNER": {
             "description": "Bot Owner UserID"
